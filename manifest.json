@@ -1,0 +1,12 @@
+{
+  "name": "Heatmap Visualization",
+  "vendor": "Your Name",
+  "version": "1",
+  "components": {
+    "heatmap": {
+      "script": "heatmap.js",
+      "style": "heatmap.css",
+      "useIFrame": true
+    }
+  }
+}
